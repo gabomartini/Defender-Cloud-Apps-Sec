@@ -4,11 +4,11 @@
 </p>
 
 #### *In this tutorial we will:*
-*- Discover and analyze Shadow IT applications using Microsoft Defender for Cloud Apps.*
+*•	Discover and analyze Shadow IT (unauthorized applications used within an organization) with Microsoft Defender for Cloud Apps.*
 
-*- Block unsafe applications by tagging them as unsanctioned to prevent their usage.*
+*•	Block unsafe applications by tagging them as unsanctioned to prevent usage.*
 
-*- Automate the blocking of risky applications by creating a custom app discovery policy.*
+*•	Automate the blocking of risky applications with a custom app discovery policy.*
 
 #### Tasks:
 1.  Configuring Defender for Endpoint for Cloud App Security.
